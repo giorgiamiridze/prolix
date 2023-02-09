@@ -972,6 +972,9 @@ ol {
 	color: #e32879;
 }
 
+.remove-bottom-space {
+	margin-bottom: -150px;
+}
 /* ------------------------------ Other Pages Styles ------------------------------ */
 
 /*---------------------
@@ -1653,6 +1656,10 @@ ol {
 	color: #ffffff;
 	font-weight: 700;
 	margin-bottom: 45px;
+}
+
+.remove-space {
+	margin-top: -100px;
 }
 
 /*-------------------------------- Respinsive Media Styles --------------------------------*/
